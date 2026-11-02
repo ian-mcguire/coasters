@@ -13,3 +13,7 @@ p {
 h1 {
   color: maroon;
 }
+
+a:hover {
+  color: red;
+}
